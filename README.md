@@ -18,4 +18,4 @@ World Health Organization (WHO)
 https://data.who.int/indicators/i/F08B4FD/16BBF41?m49=356
 
 ## Author
-Amritha
+Amritha K
